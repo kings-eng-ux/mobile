@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: Arial, Helvetica, sans-serif;
+}
+form{
+    width: 70%;
+    height: 700px;
+    /* background-color: red; */
+}
+.fo{
+    width: 35%;
+    height: 530px;
+    background-color: white;
+    margin: auto;
+    margin-top: 40px;
+    border: 1px solid black;
+}
+h1{
+    font-size: 32px;
+    margin-top: 30px;
+    margin-left: 5px;
+}
+h4{
+    color: red;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+.bn{
+    width: 120px;
+    height: 39px;
+    margin-left: 10px;
+    background-color: rgb(78,240,55);
+    border: none;
+} 
+.bn>a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.fa-whatsapp{
+    font-size: 30px;
+}
+.fo>p{
+    font-weight: 30px;
+    align-items: center;
+    margin-left: 40px;
+    line-height: 25px;
+    margin-top: 25px;
+}
+input{
+    width: 70%;
+    height: 40px;
+    margin-left: 40px;
+    
+}
+.fo .bnnn{
+    margin-left: 20px;
+    width: 85%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: rgb(216,14,112);
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+.fo .bnnn>a{
+    color: white;
+    text-decoration: none;
+
+}
+
+.fo .bnnnn{
+    margin-left: 20px;
+    width: 85%;
+    height: 40px;
+    margin-top: 40px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    border: none;
+}
+.fo .bnnnn>a{
+    text-decoration: none;
+}
